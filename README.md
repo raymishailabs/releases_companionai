@@ -1,1 +1,1 @@
-# releases_companionai
+# Companion AI Desktop App Releases
